@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>form</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+</head>
+
+<body>
+    <form method="post">
+        {%for i in html_form%}
+        <span>{{i.label}}</span> 
+        {{i}}<br> 
+        {%endfor%}
+ 
+
+
+
+    </form>
+
+</body>
+
+</html>

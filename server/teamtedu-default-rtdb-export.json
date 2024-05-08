@@ -1,0 +1,55 @@
+{
+  "table" : {
+    "status" : "findseat",
+    "table0" : {
+      "d1" : "a",
+      "d2" : "a",
+      "d3" : "a",
+      "d4" : "n",
+      "s1" : true,
+      "s2" : true,
+      "s3" : true,
+      "s4" : true
+    },
+    "table1" : {
+      "d1" : "a",
+      "d2" : "a",
+      "d3" : "a",
+      "d4" : "n",
+      "s1" : true,
+      "s2" : true,
+      "s3" : true,
+      "s4" : true
+    },
+    "table2" : {
+      "d1" : "a",
+      "d2" : "n",
+      "d3" : "n",
+      "d4" : "n",
+      "s1" : true,
+      "s2" : true,
+      "s3" : true,
+      "s4" : true
+    },
+    "table3" : {
+      "d1" : "a",
+      "d2" : "n",
+      "d3" : "n",
+      "d4" : "n",
+      "s1" : true,
+      "s2" : true,
+      "s3" : true,
+      "s4" : true
+    },
+    "table4" : {
+      "d1" : "a",
+      "d2" : "n",
+      "d3" : "n",
+      "d4" : "n",
+      "s1" : true,
+      "s2" : true,
+      "s3" : true,
+      "s4" : true
+    }
+  }
+}

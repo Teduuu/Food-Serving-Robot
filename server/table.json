@@ -1,0 +1,40 @@
+{
+
+    "table" :{
+
+            "table1" :{
+                "s1" : false,
+                "s2" : false,
+                "s3" : true,
+                "s4" : false
+            },
+            "table2" :{
+                "s1" : true,
+                "s2" : true,
+                "s3" : false,
+                "s4" : false
+            },
+            "table3" :{
+                "s1" : true,
+                "s2" : false,
+                "s3" : false,
+                "s4" : false
+            },
+            "table4" :{
+                "s1" : true,
+                "s2" : false,
+                "s3" : false,
+                "s4" : false
+            }         
+
+
+
+
+
+    }
+    
+
+
+
+
+}

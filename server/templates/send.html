@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>send</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+
+<body bgcolor="#ecd6c7">
+
+
+<form method="post" >
+
+    {{send.hidden_tag()}}
+    <table width="100%" height="400" >
+        <tr><td align="center" valign="center" >
+ 
+            <p>{{send.table_no.label}} {{send.table_no}}</p>
+    
+            <p>{{send.seat_no.label}} {{send.seat_no}}</p>
+
+            <p>{{send.status.label}} {{send.status}}</p>
+
+            <p>{{send.submit.label}}  {{send.submit}}</p>
+        </td></tr>
+    </table>    
+</form>
+</body>
+</html>
